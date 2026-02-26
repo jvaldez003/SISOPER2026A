@@ -41,7 +41,7 @@ void print_mem()
         }
         else
         {
-            printf("Partición %d está libre",i);
+            printf(" Partición %d está libre",i);
         }
     }
 
